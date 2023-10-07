@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 07/10/2023
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -21,10 +21,26 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-
+```
+<html>
+  <head>
+     <title>Simple WebServer</title>
+  </head>
+  <body>
+    <ul>
+        <li>IBM</li>
+        <li>AMAZON</li>
+        <li>TCS</li>
+        <li>CORGIZANT</li>
+        <li>INFOSYS</li>
+      </ul>
+  </body>
+</html>
+```
 
 ## OUTPUT:
 
+![Alt text](<sudhar/ex1/static/Screenshot (288).png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
